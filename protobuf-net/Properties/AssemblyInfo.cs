@@ -6,11 +6,11 @@ using System.Runtime.CompilerServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("protobuf-net")]
+[assembly: AssemblyTitle("ek1 protobuf-net")]
 [assembly: AssemblyDescription("Protocol Buffers for .NET")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Marc Gravell")]
-[assembly: AssemblyProduct("protobuf-net")]
+[assembly: AssemblyProduct("ek2 protobuf-net")]
 [assembly: AssemblyCopyright("See http://code.google.com/p/protobuf-net/")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
